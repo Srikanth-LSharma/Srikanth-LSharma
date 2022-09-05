@@ -1,6 +1,6 @@
 <h3 align="center">Welcome to Srikanth Sharma's profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30" /></h3>
 
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&size=25&duration=4000&pause=100&color=be242b&background=000000000&center=true&width=1035&lines=Full+stack+Developer;UI%2FUX+Design+Enthusiast;Experienced+in+ReactJS+and+Redux)
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&size=35&duration=4000&pause=100&color=be242b&background=000000000&center=true&width=1035&height=61&lines=Full+stack+Developer;UI%2FUX+Design+Enthusiast;Experienced+in+ReactJS+and+Redux)
 
 # <div align="center"><img src="https://media.giphy.com/media/LPxpLjtJMTKk81PO6C/giphy.gif" width="360" height="203"></img></div>
 
