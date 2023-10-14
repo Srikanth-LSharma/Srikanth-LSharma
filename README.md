@@ -16,8 +16,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srikanth-LSharma&line_height=20&show_icons=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srikanth-lsharma&layout=compact&card_width=295)
-
-
-# <div align="left" style="width:40px;"> </div>
-
-[<img alt="GIF" align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" height="320" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> ](url)
