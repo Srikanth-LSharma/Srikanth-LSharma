@@ -2,7 +2,7 @@
 
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&size=35&duration=4000&pause=100&color=be242b&background=000000000&center=true&width=1035&height=61&lines=Full+stack+Developer;UI%2FUX+Design+Enthusiast;Experienced+in+ReactJS+and+Redux)
 
-# <div align="center"><img src="https://media.giphy.com/media/LPxpLjtJMTKk81PO6C/giphy.gif" width="360" height="203"></img></div>
+<!---# <div align="center"><img src="https://media.giphy.com/media/LPxpLjtJMTKk81PO6C/giphy.gif" width="360" height="203"></img></div>-->
 
 <a href="https://www.instagram.com/server_host/" rel="nofollow">
   <img align="left" alt="Srikanth's Instagram" width="27px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" style="max-width: 100%;">
@@ -14,5 +14,5 @@
 
 <p align="left"> <img width="145px" src="https://komarev.com/ghpvc/?username=srikanth-lsharma&label=Profile%20views&color=229fee&style=flat" alt="srikanth-lsharma" /> </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srikanth-LSharma&line_height=20&show_icons=true) 
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srikanth-LSharma&line_height=20&show_icons=true)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srikanth-lsharma&layout=compact&card_width=295)
